@@ -4,7 +4,7 @@ This repository collects our discussion. Now we mainly focus on OOD(out-of-distr
 
 ## Seminar-Papers
 
-|                         Paper Title                          |  Venue   | Year |                          Materials                           | SeminarDate | Speaker |
+|                         Paper Title                          |  Venue   | Year |                        PaperMaterials                        | SeminarDate | Speaker |
 | :----------------------------------------------------------: | :------: | :--: | :----------------------------------------------------------: | :---------: | :-----: |
 | L-Shapley and C-Shapley: Efficient Model Interpretation for Structured Data | Preprint | 2018 | [[PDF]](https://arxiv.org/abs/1808.02610) [[SLIDE]](https://github.com/lygjwy/DVal/blob/main/slides/L-shapley-and-c-shapley-eficient-model-interpretation-for-structured-data.ppt) | 2020-12-28  |   Ch    |
 | Understanding Black-box Predictions via Influence Functions  |   ICML   | 2017 | [[PDF]](https://arxiv.org/abs/1703.04730) [[SLIDE]](https://github.com/lygjwy/DVal/blob/main/slides/understanding-black-box-predictions-via-influence-functions.ppt) | 2020-12-28  |   Jwy   |
